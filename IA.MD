@@ -1,0 +1,1 @@
+Ocupe claude AI 4.0 para que me ayudara a acomodar algunas cosas como la imagen hacia el lado derecho y un poco con el contenedor inferior para los del calendario. 
