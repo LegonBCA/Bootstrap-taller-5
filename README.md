@@ -4,7 +4,7 @@
 Desarrollo de una página web responsiva que replica fielmente el diseño de AeroVía Express utilizando exclusivamente Bootstrap 5.3.3. La página incluye una interfaz de búsqueda de viajes con múltiples servicios (vuelos, paquetes, hoteles, autos, seguros y upgrade).
 
 ## URL de Producción
-- **GitHub Pages:** [[Agregar URL cuando esté desplegado](https://teclab.uct.cl/~benjamin.contreras/Taller5bootstrap/bootstrap/)]
+- **GitHub Pages:** https://teclab.uct.cl/~benjamin.contreras/Taller5bootstrap/bootstrap/
 - **Servidor Local:** Abrir `index.html` directamente en el navegador
 
 ## Tecnologías Utilizadas
